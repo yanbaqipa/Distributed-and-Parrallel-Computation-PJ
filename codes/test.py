@@ -1,3 +1,4 @@
+# 这只是个示例，但显然这个测试脚本相当简单……没什么好展示的
 import json
 import subprocess
 import shlex
